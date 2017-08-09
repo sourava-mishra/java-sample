@@ -2,7 +2,7 @@ Webapp Runner allows you to launch an application in a Tomcat container on any c
 
 This article will walk you through building an application that launches with Webapp Runner and deploying that application to Heroku.
 
-Follow each step to build an app from scratch, or skip to the end get the source for this article. You can also use almost any existing Maven webapp project.
+F ollow each step to build an app from scratch, or skip to the end get the source for this article. You can also use almost any existing Maven webapp project.
 
 ## Prerequisites
 
